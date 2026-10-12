@@ -1,0 +1,23 @@
+{
+  "business_name": "Elena Oasis",
+  "location": "101 Boulevard Saint Jean Baptiste #127, Châteauguay, Quebec J6J 3H9",
+  "phone": "(514) 994-4821",
+  "provider": "google_calendar",
+  "google_calendar_id": "primary",
+  "ical_feed_url": "https://calendar.google.com/calendar/ical/YOUR_GOOGLE_CALENDAR_ID/private-YOUR_SECRET_KEY/basic.ics",
+  "buffer_between_clients_minutes": 15,
+  "slot_step_minutes": 30,
+  "working_hours": {
+    "monday": { "is_open": true, "open": "09:00", "close": "19:00" },
+    "tuesday": { "is_open": true, "open": "09:00", "close": "19:00" },
+    "wednesday": { "is_open": true, "open": "09:00", "close": "19:00" },
+    "thursday": { "is_open": true, "open": "09:00", "close": "19:00" },
+    "friday": { "is_open": true, "open": "09:00", "close": "19:00" },
+    "saturday": { "is_open": true, "open": "09:00", "close": "19:00" },
+    "sunday": { "is_open": false, "open": null, "close": null }
+  },
+  "square_appointments_embed_url": "https://elena-oasis.square.site",
+  "calendly_embed_url": "https://calendly.com/elenaoasis",
+  "auto_sms_confirmation": true,
+  "insurance_receipt_note": "Reçu officiel émis pour la massothérapie (AMQ / FQM)"
+}
